@@ -1,1 +1,1 @@
-# scientificcalculator
+# miniproject
